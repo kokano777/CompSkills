@@ -89,14 +89,15 @@ metabolomics approaches. Next, I will be measuring the effect of hypoxia acclima
 **email**: itvanflein@alaska.edu  
 **about me**: I am a hair-covered biped native to a small rocky planet with a liquid-dominant water cycle. My favorite activities are consuming nutrients and respiring oxygen to sustain my cellular activity.   
 **research**: 
+
   
+<br>
 
 ## Kyoko Okano
 *Ph.D. student*
 **email*: kokano@alaska.edu
-**about me**: struggling but exciting to learn computulational skills! 
-**research**
-The Arctic becomes warmer nearly four times as fast as the rest of the world. My study focuses on how this rapid warming affects environments and ecology and how the changes affect carbon balance.
+**about me**: struggling but excited to learn computulational skills! 
+**research**: The Arctic becomes warmer nearly four times as fast as the rest of the world. My study focuses on how this rapid warming affects environments and ecology and how the changes affect carbon balance.
   
 9. 
   
