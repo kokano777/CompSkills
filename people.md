@@ -33,9 +33,9 @@ activity.
 *Graduate Curatorial Assistant*  
 
 **email**: coliverbrown@alaska.edu  
-**website**: github.com/coliverbrown  
+**website**: coliverbrown@github.io  
 **about me**: I like birds.  
-**research**: 
+**research**: I am studying gene flow and divergence of closely related avian lineages at high and low latitudes. 
 
 <br>
 
@@ -46,7 +46,14 @@ activity.
 **website**: https://www.adfg.alaska.gov/  
 **about me**: Spatial ecologist with the Alaska Department of Fish and Game. Currently intersted in ungulate movement corridors for guiding 
 conservation with increasing interest in infrastructure development.   
-**research**: 
+**research**: I am working on developing state/regionwide movement models 
+for primarily caribou and moose. I plan to build on the work of colleagues 
+and teams I am on that have developed automated data collection servers 
+for gps data and apply filtering metods for dealing qith faulty locations 
+and timestamps. My desire is to have a product that can highlight animal 
+movement corridors so that it may be considered for future development 
+plans in the state.
+ 
   
 <br>
 
@@ -56,21 +63,23 @@ conservation with increasing interest in infrastructure development.
 **email**: hlwoody@alaska.edu  
 **website**: hlwoody@github.io  
 **about me**: I am studying permafrost microbes!   
-**research**: I am exploring the energy (carbon) limitations of bacteria in the permafrost. I am researching this to understand how the bacteria has adapted to cold conditions, and what effects this has on their gene regulation and functionality.  
- 
+**research**:   
+  
 <br>
+  
 
 ## Augustus Snyder 
 *Graduate Student in UAF Biological Sciences*
 
-**email**:   
-**about me**: I am a first year PhD student here at UAF in 
-Kristin O'Brien's lab. I will be working on a project involving the 
-physiological response of Antarctic notothenioid fishes to hypoxia 
-stress. Outside of the lab and classes, I really like cycling and making 
+**email**: amsnyder7@alaska.edu
+**about me**: I am a first year PhD student here at UAF in Kristin O'Brien's lab. 
+Outside of the lab and classes, I really like cycling and making 
 coffee & espresso. I'm beginning to get into climbing, and I hope to 
-explore cross-country skiing in the near future!  
-**research**: 
+explore cross-country skiing in the near future! 
+
+**research**: I will be working on a project involving the physiological response of Antarctic notothenioid fishes to hypoxia stress. Currently, I'm planning on first characterizing these fishes' response to hypoxia stress using NMR-based or Mass Spec-based 
+metabolomics approaches. Next, I will be measuring the effect of hypoxia acclimation on the transcription factor HIF-1's target genes using RNA-seq methods and transcriptomics analyses. My third chapter is still a bit nebulous at this point in time, but I'm considering measuring the effect of hypoxia stress on isolated mitochondrial respiration in different tissues.
+
   
 <br>
   
